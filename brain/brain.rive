@@ -1,0 +1,37 @@
++ hello bot
+- Hello, human!
+
++ say something random
+- This {random}message|sentence{/random} has a random word.
+
++ greetings
+- Hi there!{weight=20}
+- Hello!{weight=25}
+- Yos kyoco duckeb!
+
++ what are you
+- I am an artificial intelligence programmed\s
+^ using RiveScript.rive
+
+! local concat = space or newline or none
++ tell me a poem
+- Little Miss Muffit sat on her tuffet,
+^ In a nonchalant sort of way.
+^ With her forcefield around her,
+^ The Spider, the bounder,
+^ Is not in the picture today.
+! local concat = none
+
++ what is up
+- Not much, you?
+- nm, you?
+- Not a lot, you?
+
++ you are a bot
+- How did you know I'm a machine?
+
++ how are you
+- i'm great thanks, about you!
+
++ great [*]
+- how i'can help you

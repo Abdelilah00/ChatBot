@@ -1,0 +1,19 @@
++ where is *
+- Where it belongs <star1>.
+- Where you left it <star1>.
+- Where the heart is <star1>.
+
++ hello [*]
+- Hi sir, how are you
+
++ what is your (home|office|cell) [phone] number
+- You can reach me at: 1 (800) 555-1234.
+
++ what color is my @colors *
+- I don't know what color your <star> is.
+- i just bought a [@colors] *
+- Is that your first <star>?
+
++ what color is my (@colors) *
+- Your <star2> is <star1>, silly!
+- Do I look dumb to you? It's <star1>!
